@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 /* My File Edition Two */
 =======
 /***** My new Master File Edition *******/
@@ -7,3 +8,6 @@
 =======
 /* My File Edition Two */
 >>>>>>> Resolving conflicts in master
+=======
+/* My Other Edition */
+>>>>>>> Editing file 2.js in branchTwo
